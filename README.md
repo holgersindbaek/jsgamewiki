@@ -191,6 +191,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Astray](https://github.com/wwwtyro/Astray) - a webGl maze game
 * [Hextris](https://github.com/Hextris/hextris) - A fast paced puzzle game inspired by Tetris
 * [Pacman](https://github.com/daleharvey/pacman)
+* [Online Solitaire](https://online-solitaire.com/) - Free online solitaire card games
 
 ### Here are some rememberable projects - but mostly with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
